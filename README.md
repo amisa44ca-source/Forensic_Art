@@ -7,3 +7,6 @@ Objectives:
 - Blend artistic skill with anatomical understanding.
 
 - Document and track ongoing development of forensic-art illustrations.
+
+#Methods: All illustrations are hand-drawn in pencil, labelled directly on paper. and compiled into into PDF files for accessibility and clarity. 
+This portfolio is meant for learning and exploration, not medical reference.
