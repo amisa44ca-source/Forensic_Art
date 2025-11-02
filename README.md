@@ -8,5 +8,6 @@ Objectives:
 
 - Document and track the ongoing development of forensic-art illustrations.
 
-### Methods: All illustrations are hand-drawn in pencil, labelled directly on paper. and compiled into PDF files for accessibility and clarity. 
+### Methods: All illustrations are hand-drawn, labelled directly on paper. and compiled into PDF files for accessibility and clarity. 
 This portfolio is meant for learning and exploration, not medical reference.
+Every crime related illustration has fictional cases; any relation with any real event or person is completely a coincidence.
