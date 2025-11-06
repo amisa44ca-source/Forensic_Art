@@ -1,10 +1,10 @@
 # Forensic_Art
-This repository is a curated portfolio of forensic anatomy illustrations, crime scene sketches, forensic facial reconstruction art, microscopic art, and autopsy diagrams. The goal is to combine art and science to create educational, visually clear, and accurate representations.
+This repository is a curated portfolio of crime scene sketches and forensic facial reconstruction art.   The goal is to combine art and science to create educational, visually clear, and accurate representations.
 Objectives:
 
 - Visualize forensic concepts for educational and portfolio purposes.
 
-- Blend artistic skill with anatomical understanding.
+- Blend artistic skill with forensic understanding.
 
 - Document and track the ongoing development of forensic-art illustrations.
 
