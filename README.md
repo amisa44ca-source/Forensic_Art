@@ -1,5 +1,5 @@
 # Forensic_Art
-This repository is a curated portfolio of crime scene sketches. The goal is to combine art and science to create educational, visually clear, and accurate representations.
+PAUSED. This repository is a curated portfolio of crime scene sketches. The goal is to combine art and science to create educational, visually clear, and accurate representations.
 Objectives:
 
 - Visualize forensic concepts for educational and portfolio purposes.
